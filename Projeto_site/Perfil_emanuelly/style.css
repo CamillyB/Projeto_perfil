@@ -1,0 +1,32 @@
+.perfil_img{
+    width: 160px;
+    border-radius: 80px;
+    margin: 6px 0px 0px 120px
+}
+
+#e{
+   padding-left: 95px;
+   padding-top: 0px;
+   font-size: 25px;
+   font-family: Arial, Helvetica, sans-serif;
+   
+}
+#sobre_mim{
+    background-color: #c9c8c8;
+    width: 370px;
+    height: 320px;
+    border-radius: 30px;
+    margin-left: 20px;
+}
+#h1{
+   font-size: 27px;
+   text-align: center;
+   padding-top: 6px;
+
+}
+.sobre{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 36px 9px 0px 9px;
+
+}

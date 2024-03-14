@@ -1,0 +1,67 @@
+body{
+    background-color: #d5d5d5;
+    align-items: center;
+}
+       
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background-color: #252525;
+    margin-top: 0px;
+    
+}
+
+.menu
+.h1{
+    color: #fff;
+    text-align: center ;
+    padding: 20px 0px 0px 18px;
+    margin: 0px;
+     
+}
+.perfil,
+.nome{
+    text-align: center;
+    margin-right: 30px;
+    text-decoration: none;
+    padding-top: 20px;
+    
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+#ver_perfil{
+    border: solid #fff;
+    border-radius: 30px;
+    background: transparent;
+    padding: 50px 300px 50px 300px;
+    font-size: 40px;
+    margin: 30px 0px 0px 9px;
+    text-decoration: none;
+    transition: ease 0.3s;
+    
+}
+
+#ver_perfil_manu{
+    border: solid #fff;
+    border-radius: 30px;
+    background: transparent;
+    padding: 50px 300px 50px 300px;
+    font-size: 40px;
+    margin: 30px 0px 0px 9px;
+    text-decoration: none;
+    transition: ease 0.3s;
+    
+}
+
+.clica:hover{
+    color: #fff;
+    
+}
+
